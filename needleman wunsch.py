@@ -76,3 +76,6 @@ while(ti >0 and tj > 0):
 print(aligned_1)
 print(aligned_2)
 
+#---------------Output---------------#
+#ATCGTCG
+#A-CGTAG
